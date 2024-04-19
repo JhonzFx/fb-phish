@@ -70,7 +70,7 @@ For more check : [wiki](https://wiki.termux.com/wiki/Hacking)
 git clone https://github.com/JhonzFx/fxphisher.git
 ```
 
-- continue to run `fb-phish` -
+- continue to run `fxphisher` -
 ```
 cd fxphisher
 bash fxphisher.sh
