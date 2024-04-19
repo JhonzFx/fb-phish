@@ -54,13 +54,17 @@ For more check : [wiki](https://wiki.termux.com/wiki/Hacking)
 ### Installation
 
 -Install the command below-
-```
-apt update && apt upgrade
-pkg install git
-pkg install wget
-pkg install curl
-pkg install php
-```
+
+```apt update && apt upgrade```
+
+```pkg install git```
+
+```pkg install wget```
+
+```pkg install curl```
+
+```pkg install php```
+
 - Just, Clone this repository -
 ```
 git clone https://github.com/JhonzFx/fxphisher.git
