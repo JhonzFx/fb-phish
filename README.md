@@ -68,11 +68,11 @@ git clone https://github.com/JhonzFx/fxphisher.git
 
 - continue to run `fb-phish` -
 ```
-cd fb-phish
-bash fb-phish.sh
+cd fxphisher
+bash fxphisher.sh
 ```
 
-- On first launch, It'll install the dependencies and that's it. `fb-phish` is installed.
+- On first launch, It'll install the dependencies and that's it. `fxphisher` is installed.
 
 
 <!-- \\ -->
