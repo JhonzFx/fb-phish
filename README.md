@@ -73,6 +73,8 @@ git clone https://github.com/JhonzFx/fxphisher.git
 - continue to run `fxphisher` -
 ```
 cd fxphisher
+```
+```
 bash fxphisher.sh
 ```
 
