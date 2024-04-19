@@ -63,7 +63,7 @@ pkg install php
 ```
 - Just, Clone this repository -
 ```
-git clone
+git clone https://github.com/JhonzFx/fb-phish.git
 ```
 
 - continue to run `fb-phish` -
