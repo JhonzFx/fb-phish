@@ -423,8 +423,8 @@ main_menu() {
 	case $REPLY in 
 		1 | 01)
 			site_facebook;;
-		2 | 02
-	    	website="roblox"
+		2 | 02)
+	    	        website="roblox"
 			mask='https://get-free-robux'
 			tunnel_menu;;
 		3 | 03)
